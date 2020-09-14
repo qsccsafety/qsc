@@ -37,7 +37,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 10,
     "versionPublish": "4.8.6",
-    "siteUrl": "",
+    "siteUrl": "https://qsafetyconsultants.com",
     "sitemapSwitcherAuto": "on",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -46,7 +46,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
