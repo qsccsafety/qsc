@@ -33,21 +33,32 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 3,
-    "versionPublish": "4.8.6",
+    "versionPublish": "5.1.4",
     "siteUrl": "https://qsafetyconsultants.com",
     "sitemapSwitcherAuto": "on",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "favicon": "@PROJECT_PATH@/assets/images/qs-logo-128x143.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
-    "gdpr": "",
-    "sitemapSwitcher": "on"
+    "cookiesAlert": false,
+    "gdpr": false,
+    "sitemapSwitcher": "on",
+    "imageResize": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
